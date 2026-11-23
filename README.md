@@ -1,1 +1,0 @@
-# zero-knowledge-proofs-and-how-they-are-used-to-scale-a-blockchain
